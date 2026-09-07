@@ -5,12 +5,14 @@
 
 
 ### CAREER
+---
 
 | Duration | Career |
 |---|---|
 | 2023.3 - |전남대학교 소프트웨어공학과 학사과정|
 
 ### AWARDS
+---
 
 #### 산학협력프로젝트경진대회 동상
 - 2025.08.21
@@ -20,6 +22,7 @@
 - 2023.3 - (수혜 중)
 
 ### ACTIVITIES
+---
 
 #### 정보보안 119 동아리
 
@@ -29,6 +32,7 @@
 - 2026.09 -
 
 ### FEATURED PROJECTS
+---
 
 #### **[온디바이스 AI를 활용한 오이 질병 예측 앱](https://github.com/eden-archive/Cucumber-Disease-Prediction)**
 - 프론트엔드, UI/UX 디자인
@@ -37,10 +41,12 @@
 - 프론트엔드, UI/UX 디자인
   
 ### TECH STACK 
+---
 
 - **Languages:** C, C++, Java, Python, Kotlin
 - **Tools & Environments:** Linux, Android Studio, Docker Desktop, Git
 
 ### CONTACT
+---
 
 - **Email:** jinlim714@jnu.ac.kr
